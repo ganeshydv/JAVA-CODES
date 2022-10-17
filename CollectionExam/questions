@@ -1,0 +1,24 @@
+wajp 
+public non abstract student 
+private attribute age
+initiLIZE age -use constructor
+declare public getter() for age
+override toString() return age
+
+-------------
+
+2)
+wajp
+public class Employee
+2 attributes-id,salary(private)
+initialize using constructor
+public getter() for attributes
+override toString() return id,salary;
+----------------------
+
+3)LinkedHashMap 
+key-brand
+value-CAR object
+CAR- attr-cost,color
+
+5)student
