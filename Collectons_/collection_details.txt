@@ -1,0 +1,38 @@
+collection (is a interface) and collections (is a class) are different...
+
+collection are used to store objects....
+
+collections can only store non-primitive data type ....
+
+we can not store primitive data inside collection so we need to use wrapper class to convert that
+primitive data to non-primitive data....and then store it into collection
+
+collections can store any type of object means in one collection we can store int,float,char,String,array..etc
+
+GENERICS:
+if we want to store only one type of data/object inside collection then we have to use GENERICS <Object_type>
+
+ex: ArrayList <Integer> lst = new ArrayList<Integer>();
+Now this list can only store Integer objects...............
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
